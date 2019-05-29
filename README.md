@@ -15,6 +15,8 @@ knowledge portal is an Internet-based computer program that constitutes a single
 
 ![Screenshot_6](https://user-images.githubusercontent.com/29921692/58579604-13fc7580-8269-11e9-84ff-9e18398019df.png)
 
+![Screenshot_7](https://user-images.githubusercontent.com/29921692/58579669-39897f00-8269-11e9-9d3c-c05da6c39cce.png)
+
 
 
 
