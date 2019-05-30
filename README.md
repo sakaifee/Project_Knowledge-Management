@@ -42,10 +42,7 @@ knowledge portal is an Internet-based computer program that constitutes a single
 ![Screenshot_19](https://user-images.githubusercontent.com/29921692/58609989-68364280-82c7-11e9-93f7-190794283020.png)
 
 
-
-
-
-
+### Use Firefox Web Browser 
 
 
 
